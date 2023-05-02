@@ -52,4 +52,4 @@ validation_steps = len(test_generator.classes) // batch_size
 
 model.fit(train_generator, validation_data=test_generator, epochs=15, steps_per_epoch=steps_per_epoch, validation_steps=validation_steps)
 
-model.save('mdls/cnnmodel.h5', overwrite=True)
+model.save('cnnmodel.h5', overwrite=True)
