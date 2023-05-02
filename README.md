@@ -3,6 +3,16 @@
 
 Driver Drowsiness Detection is a project aimed at improving road safety by detecting driver drowsiness using computer vision and machine learning techniques. The system analyzes video input from a camera to monitor the driver's eyes and determine if they are open or closed. If the driver's eyes remain closed for an extended period of time, an alarm is triggered to alert the driver and prompt them to take necessary action.
 
+## Team members:
+
+## Aasritha Juvva (A20523774) ajuvva@hawk.iit.edu
+
+## Sree Rama Murthy Kandala (A20505937) skandala3@hawk.iit.edu
+
+## Pavan kumar Turpati (A20510960) pturpati@hawk.iit.edu
+
+Kaagle dataset used: https://www.kaggle.com/datasets/serenaraju/yawn-eye-dataset-new?resource=download
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
