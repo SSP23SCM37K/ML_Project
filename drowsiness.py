@@ -16,7 +16,7 @@ righteye = cv2.CascadeClassifier('haarcascade_righteye_2splits.xml')
 
 label=['Close','Open']
 
-model = load_model('cnnmdl1.h5')
+model = load_model('cnnmodel.h5')
 path = os.getcwd()
 cap = cv2.VideoCapture(0)
 font = cv2.FONT_HERSHEY_COMPLEX_SMALL
